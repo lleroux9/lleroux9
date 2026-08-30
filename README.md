@@ -49,7 +49,7 @@ Currently focused on expanding my skills across the robotics and software stack:
 
 * 🌐 **Website:** [loganleroux.com](https://loganleroux.com)
 * 💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/logan-leroux-4b6a46259)
-* 📧 **Email:** loganleroux@gamil.com
+* 📧 **Email:** loganleroux@gmail.com
 
 I'm always interested in connecting with engineers, researchers, and companies working on **robotics, AI, embedded systems, and advanced engineering technologies**.
 
